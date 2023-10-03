@@ -8,7 +8,7 @@ adding partial Markdown files.
 This welcome document will guide you through what you can
 alter in the Markdown documents.
 
-new-changes
+new-changes dsfdsfsdf
 
 Check out the [Config file](https://newportal-docs.redoc.dev/config/) documentation for more
 information about the `redocly.yaml` file for even more ways you can customize your developer
